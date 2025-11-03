@@ -38,8 +38,8 @@ The goal was to explore how AI-driven cinematography can bring expressive storyt
 
 ## Downloads
 
-- **Full Project (20 GB):** [Download on Mega.nz](https://mega.nz/file/h3RiHCgR#7PSAbUJyfa5mpWBpa70BBUAAMT3cXV_9i9UpPzWywfE)  
-- **GitHub Repository:** [https://github.com/SimoneDC01/Pawnimation](https://github.com/SimoneDC01/Pawnimation)
+- **Full Project (20 GB):** [Download on Mega.nz](https://mega.nz/file/h3RiHCgR#7PSAbUJyfa5mpWBpa70BBUAAMT3cXV_9i9UpPzWywfE)
+- **Executable download:** [Download on itch.io](https://simonedc01.itch.io/pawnimation)
 
 ---
 
